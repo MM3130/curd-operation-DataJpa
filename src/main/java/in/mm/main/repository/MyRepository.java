@@ -3,5 +3,5 @@ package in.mm.main.repository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public class MyRepository {
+public interface MyRepository {
 }
